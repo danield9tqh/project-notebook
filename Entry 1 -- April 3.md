@@ -1,5 +1,6 @@
 # Design notebook for week ending April 3, 2016
 
+
 ## Last week's critique
 
 **TODO:** Fill in this part with a summary and reflection on the critque you
