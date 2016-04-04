@@ -19,7 +19,7 @@ As for your suggestion about changing the syntax of the Scala collection functio
 
 ## Description
 
-Most of my work this week has been research into SQL representations and the Scala Collections code. I feel that this research has payed off in that I now have a better idea of a set of three tasks that encompass my project. I describe them in my document [Language Design and Implementation](master/documents/design_and_implementation.md). I have also made progress on my first task of creating an intermediate representation of SQL based mostly on the abstract syntax of Relational Algebra.
+Most of my work this week has been research into SQL representations and the Scala Collections code. I feel that this research has payed off in that I now have a better idea of a set of three tasks that encompass my project. I describe them in my document [Language Design and Implementation](https://github.com/danield9tqh/project/blob/master/documents/design_and_implementation.md). I have also made progress on my first task of creating an intermediate representation of SQL based mostly on the abstract syntax of Relational Algebra.
 
 ## Questions
 
